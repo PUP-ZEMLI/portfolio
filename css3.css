@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+h1,h2 {
+    background-image: linear-gradient( to right,blueviolet, blue, lightblue );
+}
+
+ol {
+    background-color: aqua;
+}
+
